@@ -195,7 +195,7 @@ img {
   border-radius: 50%; }
   @media only screen and (max-device-width: 768px) {
     .avatar img {
-      width: 10rem; } }
+      } }
 
 .list ul {
   margin: 3.2rem 0 3.2rem 0;
