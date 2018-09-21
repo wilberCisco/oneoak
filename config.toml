@@ -4,6 +4,7 @@ title = "OneOak"
 theme = "coder"
 
 languagecode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
@@ -32,6 +33,10 @@ disqusShortname = "yourdiscussshortname"
     # Custom CSS
     custom_css = []
 
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
 
 
 [languages]
