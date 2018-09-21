@@ -34,6 +34,25 @@ disqusShortname = "yourdiscussshortname"
     custom_css = []
 
 
+[[menu.main]]
+    name = "About"
+    weight = 2
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "/projects/"
+[[menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "/contact/"
+
+
 [languages]
     [languages.en]
         languagename = "English" # The language name to be displayed in the selector.
@@ -46,3 +65,8 @@ disqusShortname = "yourdiscussshortname"
         keywords = "one,oak,oneoak,technology"
 
         [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "about"
+        weight = 1.0
+        url = "/about/"
