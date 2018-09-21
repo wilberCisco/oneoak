@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "A NEW CONCEPT IN TECHNOLOGY"
     keywords = "one,oak,oneoak,technology"
     info = ""
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.png"
     footercontent = ""
 
     dateformat = "January 2, 2006"
