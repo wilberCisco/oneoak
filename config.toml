@@ -40,7 +40,7 @@ pygmentscodefencesguesssyntax = true
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-        author = "wwanjira"
+        author = ""
         description = "new concepts in technology"
         keywords = "one,oak,oneoak,technology"
 
