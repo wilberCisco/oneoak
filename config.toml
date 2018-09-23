@@ -36,12 +36,12 @@ pygmentscodefencesguesssyntax = true
 [languages]
     [languages.en]
         languagename = "English" # The language name to be displayed in the selector.
-        title = ""
+        title = "New Concepts"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-        author = ""
-        description = ""
+        author = "wwanjira"
+        description = "new concepts in technology"
         keywords = "one,oak,oneoak,technology"
 
         [languages.en.menu] # It is possible to change the menu too.
