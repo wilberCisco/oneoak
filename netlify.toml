@@ -22,10 +22,7 @@ HUGO_VERSION = "0.48"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
-
-[context.invest] # 'staging' is a branch name
-  command = "echo 'invest'"
-  base = "invest"
+base = "invest"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.48"
