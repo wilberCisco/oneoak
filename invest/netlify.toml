@@ -25,6 +25,13 @@ base = "invest"
 publish = "invest/public"
 command = "hugo -b $DEPLOY_PRIME_URL"
 
+# Specific branch context: Deploys from this branch
+# will take these settings and override their
+# current ones.
+[context.invest] # 'staging' is a branch name
+  command = "echo 'invest'"
+  base = "invest"
+
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.48"
 
