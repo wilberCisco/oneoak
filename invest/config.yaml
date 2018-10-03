@@ -39,7 +39,6 @@ params:
       - text: Account
         url: /
 
-
   section1:
     title: Great power comes
     subtitle: with great responsibility
