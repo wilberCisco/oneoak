@@ -46,7 +46,7 @@ params:
     - title: App builder
       icon: mouse-globe
       text: This is some explanatory text that is on two rows
-      url: /
+      url: enter url here/
       buttonText: Free trial
     - title: Cloud integration
       icon: laptop-cloud
