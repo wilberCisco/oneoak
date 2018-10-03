@@ -1,4 +1,4 @@
-baseURL = "https://demo.uicard.io/hugo-lime-free-demo/"
+baseURL = "site url/"
 languageCode = "en-us"
 title = "Hugo Lime"
 theme = "hugo-lime"
