@@ -1,0 +1,120 @@
+baseURL: https://invest.oneoak.co.ke
+languageCode: en-us
+title: Oneoak Invest
+theme: hugo-fresh
+
+params:
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: “The key to investing...
+    # Hero subtitle (optional)
+    subtitle: is determining the competitive advantage of any given company, and, above all, the durability of that advantage.” — Warren Buffett
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from /images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from /images/logos/clients/___.svg)
+    clientlogos:
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Log in
+    url: /
+  - title: Get Started
+    url: /
+    button: true
+  sidebar:
+    # Logo (from /images/logos/___.svg)
+    logo: fresh-square
+    sections:
+    - title: User
+      icon: user
+      links:
+      - text: Profile
+        url: /
+      - text: Account
+        url: /
+
+  section1:
+    title: Great power comes
+    subtitle: with great responsibility
+    tiles:
+    - title: App builder
+      icon: mouse-globe
+      text: This is some explanatory text that is on two rows
+      url: enter url here/
+      buttonText: Free trial
+    - title: Cloud integration
+      icon: laptop-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+    - title: Add-ons & plugins
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+  section2:
+    title: You're here because you want the best
+    subtitle: And we know it
+    features:
+    - title: Powerful and unified interface
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Cross-device synchronisation
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: doc-sync
+    - title: Nomad system
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: mobile-feed
+  section3:
+    title: One platform
+    subtitle: To rule them all
+    image: illustrations/mockups/app-mockup.png
+    buttonText: Get started
+    buttonLink: "#"
+  section4: 
+    title: Our Team!
+    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    clients:
+    - name: Wilber Wanjira
+      quote: 
+      job: Founder
+      img: 1
+    - name: Wycliff Wasiar
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Founder
+      img: 2
+    - name: Donnex Ongira
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Founder
+      img: 3
+  footer: 
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/wwanjira
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
+    bulmalogo: true
+    blogroll:
+    - text: Latest news
+      link: /
+    - text: Tech articles
+      link: /
+    - text: Video blog
+      link: /
