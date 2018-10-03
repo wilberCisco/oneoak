@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://invest.oneoak.co.ke/categories/</loc>
+    <loc>https://www.oneoak.co.ke/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://invest.oneoak.co.ke/</loc>
+    <loc>https://www.oneoak.co.ke/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://invest.oneoak.co.ke/tags/</loc>
+    <loc>https://www.oneoak.co.ke/tags/</loc>
     <priority>0</priority>
   </url>
   
