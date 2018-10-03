@@ -1,6 +1,5 @@
 [build]
-base = "invest/"
-publish = "invest/public"
+publish = "public"
 command = "hugo"
 
 [context.production.environment]
@@ -22,7 +21,7 @@ command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.48"
 
 [context.branch-deploy]
-base = "invest/"
+base = "invest"
 publish = "invest/public"
 command = "hugo -b $DEPLOY_PRIME_URL"
 
