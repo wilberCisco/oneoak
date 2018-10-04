@@ -3,16 +3,12 @@
 * Hugo Lime - v1.0
 ==============================================
 
-* Demo: https://demo.uicard.io/hugo-lime-pro/
-* Free Version: https://uicard.io/products/hugo-lime
-* Premium Version: https://uicard.io/products/hugo-lime-pro
-
 ==============================================
-* Coded By : UICardio https://uicard.io
+* Coded By : wilber https://www.wilber.co.ke
 ==============================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-* Copyright 2018 UICardio
+* Copyright 2018 wilber
 */
 
 $(document).ready(function(){
