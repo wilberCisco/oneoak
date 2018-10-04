@@ -2,9 +2,6 @@
 	"components" : [
 		"cover",
 		"features",
-		"pricing",
-		"team",
-		"clients",
 		"contact"
 	]
 }

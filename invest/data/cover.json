@@ -1,11 +1,11 @@
 {
-	"title" : "Quality code for your ideas",
-	"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec nulla ac urna suscipit iaculis sit amet ac neque. Cras volutpat scelerisque pretium. Mauris cursus ultricies pulvinar.",
-	"illustration" : "freelancing.svg",
-	"alt_text" : "Or see why we worth it",
+	"title" : "We do more than Invest...",
+	"description" : "We support companies and founders with an ambitious vision to disrupt industries and improve people's lives through technology. We are looking for new opportunities in the healthcare and technology sectors.",
+	"illustration" : "worker.svg",
+	"alt_text" : "Or see why we are worth it",
 	"alt_href" : "#features",
 	"button" : {
-		"text" : "Contact",
+		"text" : "Get in touch",
 		"href" : "#contact"
 	}
 }

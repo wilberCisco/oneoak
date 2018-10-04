@@ -1,21 +1,21 @@
 {
-  "title" : "Our Services",
-  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis mollis nisi, a tempor mi fermentum eget. Duis sed pulvinar justo.",
+  "title" : "We focus on solving core human problems",
+  "description" : "We have distilled our investment thesis into 4 core pillars centered around a human component – the way humans LIVE, MOVE, TRANSACT and WORK.",
   "content" : [
     {
       "icon" : "bell",
-      "title" : "Creative Design",
-      "description" : "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
-    },
-    {
-      "icon" : "code",
-      "title" : "Web & Mobile Development",
-      "description" : "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+      "title" : "Invest",
+      "description" : "We invest in strong teams building scalable defensible businesses leveraged by technology. We support founders with an almost obsessive vision to disrupt existing industries, create new ones and improve lives through technology.."
     },
     {
       "icon" : "",
-      "title" : "Digital Marketing",
-      "description" : "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+      "title" : "Technology",
+      "description" : "We like technology with a problem solving vision as opposed to a solution driven one. We see technology as an enabler rather than an end in itself."
+    },
+    {
+      "icon" : "search",
+      "title" : "Solving Problems",
+      "description" : "We like to understand why you are the best team/product/business to solve a specific problem. Ideally, you should have an unfair and sustainable advantage that will turn out to be the company’s strongest defensibility."
     }
   ]
 }

@@ -1,0 +1,4 @@
+baseURL = "https://invest.oneoak.co.ke"
+languageCode = "en-us"
+title = "Oneoak Invest"
+theme = "hugo-lime"

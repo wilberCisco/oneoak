@@ -3,33 +3,24 @@
   "description" : "Little team description here",
   "members" : [
     {
-      "name" : "Sarita",
-      "description" : "CEO",
-      "avatar" : "sarita.jpeg",
+      "name" : "Wilber Wanjira",
+      "description" : "Co-Founder",
+      "avatar" : "wilber.jpeg",
       "social" : {
-        "facebook" : "https://facebook.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "linkedin" : "https://linkedin.com/add/damn"
       }
     },
     {
-      "name" : "Veronica",
-      "description" : "Graphics Designer",
-      "avatar" : "veronica.jpeg",
+      "name" : "Wycliff Wasiar",
+      "description" : "Co-Founder",
+      "avatar" : "wasiar.jpeg",
       "social" : {
-        "twitter" : "https://twitter.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "dribbble" : "https://dribbble.com/add/damn"
       }
     },
     {
-      "name" : "John",
-      "description" : "Graphics Designer",
-      "avatar" : "john.jpeg",
+      "name" : "Donnex Ongira",
+      "description" : "Co-Founder",
+      "avatar" : "donnex.jpeg",
       "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
       }
     }
   ]
